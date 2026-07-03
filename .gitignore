@@ -1,0 +1,16 @@
+# 用户数据
+任务清单.xlsx
+backup/
+control.log
+
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE / 工具
+.claude/
